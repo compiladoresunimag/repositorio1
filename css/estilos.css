@@ -1,0 +1,267 @@
+body{
+	background-color: gray;
+
+
+}
+
+.container{
+	background-color: white;
+	width: 70%;
+	
+	margin: 0 auto;
+
+	
+
+	
+}
+
+.documento{
+	
+	border: 1px solid #FFF;
+	background-color: white;
+	font-weight: bold;
+	margin: 80px 80px;
+	margin-bottom: 0px;
+
+	
+	
+}
+
+table,td{
+
+
+	border-collapse: collapse;
+
+	font-style: italic;
+	padding: 0;
+	margin: 0;
+	border-radius: 5px 5px 0px 0px;
+	
+
+}
+
+
+ 
+	
+
+
+#nuip{
+	
+	
+	width: 170px;
+
+}
+
+.nuip{
+	height: 30px;
+	position: relative;
+	bottom: 53px;
+
+	
+}
+
+input{
+	width: 20px;
+}
+
+
+
+#parrafo{
+	width: 90px;
+	position: relative;
+	bottom: 100px;
+	left: 500px;
+
+}
+
+#numeros{
+	
+	position: relative;
+	bottom: 45px;
+	left: 120px;
+	font-size: 20px;
+
+}
+
+#ulti{
+
+	height: 30px;
+}
+
+#tabla1{
+
+	
+	width: 100%;
+	
+	position: relative;
+	bottom: 150px;
+
+}
+
+#tabla2{
+
+	width: 100%;
+	
+	text-align: center;
+	position: relative;
+	bottom: 170px;
+}
+
+#datos{
+
+	text-align: center;
+}
+
+.correr{
+
+	width: 50%;
+}
+
+.tabla3{
+	
+	width: 100%;
+	position: relative;
+	bottom: 190px;
+}
+
+.tabla4{
+	
+	width: 100%;
+	position: relative;
+	bottom: 210px;
+}
+
+.correr2{
+
+	width: 30%;
+	text-align: center;
+}
+
+.tabla5{
+	
+	width: 100%;
+	position: relative;
+	bottom: 230px;
+}
+
+.tabla6{
+	
+	width: 100%;
+	position: relative;
+	bottom: 250px;
+}
+
+.tabla7{
+	
+	width: 100%;
+	position: relative;
+	bottom: 270px;
+}
+
+.tabla8{
+	
+	width: 100%;
+	position: relative;
+	bottom: 290px;
+}
+
+.tabla9{
+
+	width: 100%;
+	position: relative;
+	bottom: 275px;
+}
+
+.tabla10{
+
+	width: 100%;
+	position: relative;
+	bottom: 295px;
+}
+
+.tabla11{
+
+	width: 100%;
+	position: relative;
+	bottom: 295px;
+}
+
+#asd{
+
+	text-align: center;
+	width: 30%;
+
+}
+
+.imagen2{
+
+	position: relative;
+	left: 50px;
+	top: 100px;
+}
+
+table{
+	font-size: 10px;
+
+}
+
+.subtabla{
+	width: 100%;
+
+}
+
+#zx{
+	text-align: center;
+
+	width: 20%;
+}
+
+.supertd{
+	width: 50%;
+	text-align: center;
+}
+
+.titulo{
+	text-align: center;
+}
+
+.tam1{
+	height: 25px;
+}
+
+.tam2{
+	height: 30px;
+}
+
+.tam3{
+	height: 60px;
+}
+
+#subtabla1{
+
+	height: 56px;
+}
+#casilla{
+	height: 10px;
+}
+
+#numero{
+
+
+	font-weight: bold;
+	transform: rotate(-90deg);
+	position: relative;
+	bottom: 1035px;
+	left: 48%;
+
+
+}
+
+#letras{
+
+	font-weight: bold;
+	transform: rotate(-90deg);
+	position: relative;
+	bottom: 640px;
+	left: 43%;
+}
